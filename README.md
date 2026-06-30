@@ -96,6 +96,18 @@ Employee-Performance-Productivity-Analysis
 The detailed project report is available in this repository.
 
 ---
+---
+
+## 🚀 Skills Demonstrated
+
+- SQL
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Power BI
+- Dashboard Development
+- Business Intelligence
+- Data Analytics
 
 ## 👨‍💻 Author
 
