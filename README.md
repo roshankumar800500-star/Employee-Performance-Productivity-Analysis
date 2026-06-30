@@ -93,7 +93,11 @@ Employee-Performance-Productivity-Analysis
 
 ## 📄 Project Report
 
-The detailed project report is available in this repository.
+📄 **Project Report**
+
+Click below to view the complete project report.
+
+[📘 Employee Performance & Productivity Analysis Report](Employee_Performance_Productivity_Analysis_Report.pdf)
 
 ---
 ---
